@@ -1,0 +1,10 @@
+streamlit 
+pandas
+numpy 
+matplotlib.pyplot 
+seaborn 
+sklearn.preprocessing 
+pickle 
+tensorflow
+nsepy 
+datetime
